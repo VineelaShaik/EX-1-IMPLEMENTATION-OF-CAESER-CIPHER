@@ -44,7 +44,7 @@ void decode(char *str, int offset, char *result) {
 }
 
 int main() {
-    char msg[] = "Hello welcome to Security Laboratory";
+    char msg[] = "Vineela Shaik";
     char encoded[256];
     char decoded[256];
     
@@ -62,7 +62,8 @@ int main() {
 ```
 
 ## OUTPUT: 
-<img width="1864" height="703" alt="image" src="https://github.com/user-attachments/assets/aeeeb155-3cdc-4e42-9c88-2f300f32a883" />
+<img width="790" height="324" alt="image" src="https://github.com/user-attachments/assets/9405e8b6-73b2-4e98-8be6-7e5de535d98c" />
+
 
 ## RESULT: 
 The program implementing the Caesar cipher for encryption and decryption has been successfully  executed, and the results have been verified.
